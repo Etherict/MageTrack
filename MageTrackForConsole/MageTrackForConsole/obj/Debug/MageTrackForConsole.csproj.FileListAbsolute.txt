@@ -1,0 +1,10 @@
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackForConsole.exe.config
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackForConsole.exe
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackForConsole.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackLogic.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackData.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackLogic.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackData.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\obj\Debug\MageTrackForConsole.csprojResolveAssemblyReference.cache
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\obj\Debug\MageTrackForConsole.exe
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\obj\Debug\MageTrackForConsole.pdb
