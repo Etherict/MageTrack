@@ -1,0 +1,5 @@
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackData\obj\Debug\MageTrackData.csprojResolveAssemblyReference.cache
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackData\bin\Debug\MageTrackData.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackData\bin\Debug\MageTrackData.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackData\obj\Debug\MageTrackData.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackData\obj\Debug\MageTrackData.pdb

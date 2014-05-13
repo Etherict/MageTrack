@@ -1,0 +1,10 @@
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\obj\Debug\MageTrackLogic.csprojResolveAssemblyReference.cache
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\bin\Debug\MageTrackLogic.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\bin\Debug\MageTrackLogic.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\bin\Debug\BCrypt.Net.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\bin\Debug\MageTrackData.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\bin\Debug\MageTrackData.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\bin\Debug\BCrypt.Net.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\bin\Debug\BCrypt.Net.xml
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\obj\Debug\MageTrackLogic.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogic\obj\Debug\MageTrackLogic.pdb
