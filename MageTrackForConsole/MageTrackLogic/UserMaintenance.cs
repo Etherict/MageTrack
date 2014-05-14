@@ -19,20 +19,6 @@ namespace MageTrackLogic
             //Pass the encrypted password and username down to data for storage
         }
 
-        /// <summary>
-        /// Encrypts a password, using BCrypt, with the WorkForce maintained in the config
-        /// </summary>
-        /// <param name="plainTextPassword"></param>
-        /// <returns></returns>
-        internal string EncryptPassword(MageTrackLogic.User user)
-        {
-            //Retrieve the workforce from the config
-            string encryptedPassword = string.Empty;
-            //encrypt the password using the workforce
-            //return the encrypted password
-            return encryptedPassword;
-        }
-
         public bool LogUserIn(string userName, string plainTextPassword)
         {
             bool wasLoginSuccessful = false;

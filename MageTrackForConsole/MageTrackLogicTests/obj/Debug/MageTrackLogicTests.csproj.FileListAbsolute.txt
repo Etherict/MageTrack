@@ -7,3 +7,6 @@ C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrack
 C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogicTests\bin\Debug\MageTrackLogic.pdb
 C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogicTests\obj\Debug\MageTrackLogicTests.dll
 C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogicTests\obj\Debug\MageTrackLogicTests.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogicTests\bin\Debug\BCrypt.Net.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogicTests\bin\Debug\BCrypt.Net.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackLogicTests\bin\Debug\BCrypt.Net.xml

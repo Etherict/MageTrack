@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Encryption.cs" />
     <Compile Include="EncryptionSettingsSection.cs" />
     <Compile Include="User.cs" />
     <Compile Include="UserMaintenance.cs" />

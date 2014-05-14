@@ -11,3 +11,6 @@ C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrack
 C:\Users\Etherict\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\MageTrackForConsole.exe.config
 C:\Users\Etherict\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\obj\Debug\MageTrackForConsole.exe
 C:\Users\Etherict\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\obj\Debug\MageTrackForConsole.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\BCrypt.Net.dll
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\BCrypt.Net.pdb
+C:\Users\dylan.giddings\Documents\GitHub\MageTrack\MageTrackForConsole\MageTrackForConsole\bin\Debug\BCrypt.Net.xml

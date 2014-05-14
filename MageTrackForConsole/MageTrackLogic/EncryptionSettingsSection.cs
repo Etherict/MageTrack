@@ -9,17 +9,17 @@ namespace MageTrackLogic
 {
     class EncryptionSettingsSection : ConfigurationSection
     {
-        [ConfigurationProperty("workForce", DefaultValue = 8, IsRequired = true)]
+        [ConfigurationProperty("workFactor", DefaultValue = 8, IsRequired = true)]
         [IntegerValidator(MinValue = 4, MaxValue = 32, ExcludeRange = false)]
         public int WorkForce
         {
             get
             {
-                return (int)this["workForce"];
+                return (int)this["workFactor"];
             }
             set
             {
-                this["workForce"] = value;
+                this["workFactor"] = value;
             }
         }
     }
