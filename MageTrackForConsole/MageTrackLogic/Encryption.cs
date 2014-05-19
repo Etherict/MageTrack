@@ -37,5 +37,17 @@
                 BCrypt.Net.BCrypt.HashPassword(plainTextPassword, this.WorkFactor);
             return encryptedPassword;
         }
+
+        /// <summary>
+        /// Determine if a plaintext password and a hash match
+        /// </summary>
+        /// <param name="plainTextPassword">The plaintext to compare</param>
+        /// <param name="encryptedPassword">The hash to compare</param>
+        /// <returns>The result of the comparison</returns>
+        internal bool VerifyPassword(string plainTextPassword, string encryptedPassword)
+        {
+            bool isVerified = BCrypt.Net.BCrypt.Verify(plainTextPassword, encryptedPassword);
+            return isVerified;
+        }
     }
 }

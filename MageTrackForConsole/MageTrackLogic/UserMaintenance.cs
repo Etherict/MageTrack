@@ -16,10 +16,12 @@ namespace MageTrackLogic
         public void StoreUser(string userName, string plainTextPassword)
         {
             //Encrypt the users password
+            string encryptedPassword = new Encryption().EncryptPassword(plainTextPassword);
             //Pass the encrypted password and username down to data for storage
+
         }
 
-        public bool LogUserIn(string userName, string plainTextPassword)
+        public bool LogUserIn(int userId, string plainTextPassword)
         {
             bool wasLoginSuccessful = false;
             //

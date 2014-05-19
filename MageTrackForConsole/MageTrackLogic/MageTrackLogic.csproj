@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Encryption.cs" />
     <Compile Include="EncryptionSettingsSection.cs" />
-    <Compile Include="User.cs" />
     <Compile Include="UserMaintenance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
